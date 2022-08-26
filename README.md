@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi There 👋 , I'm Ilya
 
-<!--
-**Ilya1707/Ilya1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm FrontEnd Developer
 
-Here are some ideas to get you started:
+- 👨‍💻 I like to write code 
+- 📖 I'm constantly learning new things
+- 💻 I like to solve problems on codewars
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<img align="left" alt="HTML5" width="27px" src="img/html.png"    />
+<img align="left" alt="CSS" width="27px" src="img/css.png"    />
+<img align="left" alt="Sass" width="27px" src="img/sass.png"    />
+<img align="left" alt="Bootstrap" width="27px" src="img/bootstrap.png"    />
+<img align="left" alt="JS" width="27px" src="img/js.png"    />
+<img align="left" alt="NPM" width="27px" src="imag/npm.png"    />
+<img align="left" alt="vs" width="27px" src="imag/vs.png"    /> 
+
+<br />
+
+### Contact with me
+
+
+
