@@ -17,7 +17,12 @@
 
 <br />
 
-### Contact with me
+### 📭 Contacts 
+- **Gmail:** demidovilya0@gmail.com
+- **Telegram:** @demidov_017
+- **Linkedln:** www.linkedin.com/in/demidowx
 
 
+### 📈 Codewars
+<img src='https://www.codewars.com/users/Ilya1707/badges/large'>
 
