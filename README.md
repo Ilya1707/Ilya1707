@@ -7,13 +7,13 @@
 - 💻 I like to solve problems on codewars
 
 ### Languages and Tools:
-<img align="left" alt="HTML5" width="27px" src="img/html.png"    />
-<img align="left" alt="CSS" width="27px" src="img/css.png"    />
-<img align="left" alt="Sass" width="27px" src="img/sass.png"    />
-<img align="left" alt="Bootstrap" width="27px" src="img/bootstrap.png"    />
-<img align="left" alt="JS" width="27px" src="img/js.png"    />
-<img align="left" alt="NPM" width="27px" src="imag/npm.png"    />
-<img align="left" alt="vs" width="27px" src="imag/vs.png"    /> 
+<img align="left" alt="HTML5" width="30px" src="img/html.png"    />
+<img align="left" alt="CSS" width="30px" src="img/css.png"    />
+<img align="left" alt="Sass" width="30px" src="img/sass.png"    />
+<img align="left" alt="Bootstrap" width="30px" src="img/bootstrap.png"    />
+<img align="left" alt="JS" width="30px" src="img/js.png"    />
+<img align="left" alt="NPM" width="30px" src="imag/npm.png"    />
+<img align="left" alt="vs" width="30px" src="imag/vs.png"    /> 
 
 <br />
 
