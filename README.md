@@ -20,7 +20,7 @@
 ### 📭 Contacts 
 - **Gmail:** demidovilya0@gmail.com
 - **Telegram:** @demidov_017
-- **Linkedln:** www.linkedin.com/in/demidowx
+- **Linkedln:** www.linkedin.com/in/demidow
 
 
 ### 📈 Codewars
