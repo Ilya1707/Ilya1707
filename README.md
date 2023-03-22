@@ -19,7 +19,7 @@
 <br />
 
 ### 📭 Contacts 
-- **Gmail:** demidovilya0@gmail.com
+- **Gmail:** ilyadziamidau0@gmail.com
 - **Telegram:** @demidov_017
 - **Linkedln:** www.linkedin.com/in/demidow
 
