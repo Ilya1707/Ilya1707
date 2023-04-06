@@ -24,6 +24,6 @@
 - **Linkedln:** www.linkedin.com/in/demidow
 
 
-### 📈 Codewars
-<img src='https://www.codewars.com/users/Ilya1707/badges/large'>
+<!-- ### 📈 Codewars
+<img src='https://www.codewars.com/users/Ilya1707/badges/large'> -->
 
