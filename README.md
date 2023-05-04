@@ -1,6 +1,6 @@
 ### Hi There 👋 , I'm Ilya
 
-## I'm FrontEnd Developer
+## 
 
 - 👨‍💻 I like to write code 
 - 📖 I'm constantly learning new things
